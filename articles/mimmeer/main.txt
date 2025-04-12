@@ -1,0 +1,1 @@
+This is a TEST document, if you are not a developer or tester of "MineNews", then PLEASE LEAVE THIS PAGE IMMEDIATLY, BUGGY BEHAVIOUR EXPECTED.
